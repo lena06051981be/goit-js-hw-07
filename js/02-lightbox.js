@@ -3,7 +3,6 @@ import { galleryItems } from "./gallery-items.js";
 
 console.log(galleryItems);
 
-// galleryRef.innerHTML = "";
 const galleryRef = document.querySelector(".js-gallery");
 
 galleryRef.innerHTML = "";
